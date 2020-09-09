@@ -1,5 +1,7 @@
 # TomTom-Go-navigation-to-GoogleMap-Location
 Use IOS shortcut to set the TomTom Go navigation to the location on GoogleMap
+![](IMB_bgAvyS.GIF)
+
 
 The shortcut can be found here:
 https://www.icloud.com/shortcuts/be20911a627640dfa43650040f3e65ec
